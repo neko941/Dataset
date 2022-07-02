@@ -1,0 +1,77 @@
+[
+    {
+        "Dataset" : "Canadian Institute For Advanced Research",
+        "Preview" : "",
+        "URL" : [
+            "https://www.cs.toronto.edu/~kriz/cifar.html"
+        ],
+        "Abbreviation" : "CIFAR",
+        "DataType" : [
+            "Image"
+        ],
+        "Label" : [],
+        "Domain" : [],
+        "Task" : [
+            "Image Classification",
+            "Image Generation"
+        ]
+    },
+    {
+        "Dataset" : "ImageNet",
+        "Preview" : "",
+        "URL" : [
+            "https://image-net.org/"
+        ],
+        "Abbreviation" : "",
+        "DataType" : [
+            "Image"
+        ],
+        "Label" : [],
+        "Domain" : [],
+        "Task" : [
+        ]
+    },
+    {
+        "Dataset" : "Kinetics",
+        "Preview" : "",
+        "URL" : [
+            "https://www.deepmind.com/open-source/kinetics"
+        ],
+        "Abbreviation" : "",
+        "DataType" : [
+            "Image"
+        ],
+        "Label" : [],
+        "Domain" : [],
+        "Task" : [
+        ]
+    },
+    {
+        "Dataset" : "The Karolinska Directed Emotional Faces",
+        "Preview" : "./material/KDEF.png",
+        "URL" : [
+            "https://www.kdef.se/"
+        ],
+        "Abbreviation" : "KDEF",
+        "DataType" : [
+            "Image"
+        ],
+        "Label" : [],
+        "Domain" : [],
+        "Task" : [
+        ]
+    },
+    {
+        "Dataset" : "",
+        "Preview" : "",
+        "URL" : [
+        ],
+        "Abbreviation" : "",
+        "DataType" : [
+        ],
+        "Label" : [],
+        "Domain" : [],
+        "Task" : [
+        ]
+    }
+]
